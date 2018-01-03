@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  premiere_date: 2017-12-30
+  length: MyString
+  genres: 
+  director: MyString
+  screenwriter: MyString
+  country: MyString
+  text: MyText
+
+two:
+  title: MyString
+  premiere_date: 2017-12-30
+  length: MyString
+  genres: 
+  director: MyString
+  screenwriter: MyString
+  country: MyString
+  text: MyText
